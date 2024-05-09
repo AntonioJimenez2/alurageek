@@ -1,0 +1,88 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Gamecube",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCObrxklkh09x6puDIwHVHEeF_4bHWislgXwKRpWiIJfoROTgRQRHfgN8&s=10",
+      "precio": 2349.99
+    },
+    {
+      "id": "2",
+      "nombre": "PlayStation 5",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_w4CzLYK9hlF_AyRPjPZEqnXSfzr3o1lmjGC56v2ANEG13748Vm6BlZ-&s=10",
+      "precio": 12999
+    },
+    {
+      "id": "3",
+      "nombre": "Xbox One",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lsOZS1sbkC4H4KI7MzF0mTqb80diJ3tz00qezzRBCg99F0bTtibD0vo&s=10.jpg",
+      "precio": 5431.22
+    },
+    {
+      "id": "4",
+      "nombre": "Nintendo Switch Lite",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmy64B7c-77_gkN3slV3e0Ic9XhlirWE7OvAQK3JT34tk98tz5Izyg5FU&s=10.jpg",
+      "precio": 3990
+    },
+    {
+      "id": "5",
+      "nombre": "Taza Harry Potter",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsp8ouE1bqHCKgtKAhpOMHlHIFcACuUSUxAKYD22hLFHeE-h3Efebkv8A&s=10",
+      "precio": 349
+    },
+    {
+      "id": "6",
+      "nombre": "Delorean volador",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYtiXoT0hFEpLAkQlKuh0vutlss9LDfyNAz49TTRFESl-7J9plrG-HmY&s=10",
+      "precio": 790.99
+    },
+    {
+      "id": "7",
+      "nombre": "Star Trek Enterprise",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4G_bNsSPZXOPHotOo64RqBoU3wn3HvKRWu-xSRQXfnLlpVTTjhnQfNzQ&s=10",
+      "precio": 1290.99
+    },
+    {
+      "id": "8",
+      "nombre": "Doctor Who - Tardis",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlJFo2pV9ZUhb2KGqbG87l6T3Az0udEx3H9bWZvSlrMyQyKk51RumS3o&s=10",
+      "precio": 658.99
+    },
+    {
+      "id": "9",
+      "nombre": "Bufanda Harry Potter",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUtx1MJDgPudinHwmWnNbPTOTVP3f-2r6TXSPbvzaJo83zWzS33PCWn5P&s=10",
+      "precio": 199
+    },
+    {
+      "id": "10",
+      "nombre": "LOTR Anillo de poder",
+      "imagen": "https://m.media-amazon.com/images/I/41Jq4f4ficL._AC_SY580_.jpg",
+      "precio": 1419.99
+    },
+    {
+      "id": "e729",
+      "nombre": "Ambernic rg552",
+      "imagen": "https://m.media-amazon.com/images/I/61JVLKjkVvL.jpg",
+      "precio": "4000.00"
+    },
+    {
+      "id": "2fbe",
+      "nombre": "Jeep Jurassic Park",
+      "imagen": "https://m.media-amazon.com/images/I/71qpp0aZxqL.jpg",
+      "precio": "458.69"
+    },
+    {
+      "id": "d024",
+      "nombre": "Gira tiempo ",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEMLv0iT-RWfONdTH7NssWLmHdv8yKomilACeack2bKCx6QO67RARBog&s=10",
+      "precio": "8485"
+    },
+    {
+      "id": "465d",
+      "nombre": "Legend of Zelda ",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7peYARwvBCberjEtqIBBfet1CLPU_RTN3vCGyz-wpDMWWLb6-kPX58xs&s=10.jpg",
+      "precio": "1009"
+    }
+  ]
+}
