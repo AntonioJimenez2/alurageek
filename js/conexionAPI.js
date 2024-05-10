@@ -1,5 +1,3 @@
-// dirección url del local-server
-//const apiProductos = "http://localhost:3001/productos/";
 
 //obtener productos de la api
 async function listarProductos(urlApi) {
